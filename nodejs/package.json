@@ -1,0 +1,15 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "simples bots",
+  "main": "botLogin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "vicente sombo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.0.0",
+  },
+}
